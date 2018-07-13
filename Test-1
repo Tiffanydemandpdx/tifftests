@@ -1,0 +1,39 @@
+<!--Note:The template file will be copied to a new file. When you change the code of the template file you can create new file with this base code. -->
+<html>
+<style>
+/*This stylesheet sets the width of all images to 100%: */
+img {
+    width:100%;
+}
+body{
+    text-align:center;
+}
+
+h2{
+    font-family: arial;
+    color: white;
+}
+</style>
+    <body>
+    <div style="background-color:orange;padding:10px;">
+  <h2>Happy Friday.</h2>
+  <p>I did this on my iphone, arent I cool?</p>
+        <a href="http://www.tiff-wood.com">Tiffs Test</a>
+        </div>
+        
+            <div style="background-color:red;padding:10px;">
+        </div>
+        <div style="background-color:purple;padding:15px;">
+        </div>
+        <div style="background-color:blue;padding:20px;">
+       <div style="background-color:green;padding:15px;max-width=30px;">
+       <h2>Clark turned 1 this month!</h2>
+<img src="/var/mobile/Containers/Data/Application/21E3679F-8FDA-43A9-8C03-749E966A8D54/Documents/Inbox/File_000.jpeg">
+
+
+        </div>
+       
+        </div>
+        
+    </body>
+</html>
